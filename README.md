@@ -2,6 +2,9 @@ Employee Attendance & Leave Dashboard:
 This Employee Attendance & Leave Dashboard offers a detailed, real-time overview of employee attendance, including presence, sick leave, 
 and work-from-home (WFH) data. Designed to help HR teams and managers efficiently track and analyze attendance patterns, it provides insights into workforce availability and trends.
 
+
+![HR](https://github.com/user-attachments/assets/fe7e52c3-2326-4fbe-83bc-8c5e2c76b3a4)
+
 Key features include:
 
 Attendance Overview: Visualize total days worked (presence), sick leave taken, and work-from-home days for each employee.
