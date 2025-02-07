@@ -5,7 +5,11 @@ and work-from-home (WFH) data. Designed to help HR teams and managers efficientl
 Key features include:
 
 Attendance Overview: Visualize total days worked (presence), sick leave taken, and work-from-home days for each employee.
+
 Sick Leave Analysis: Track the frequency and duration of sick leave, identify patterns, and ensure compliance with company policies.
+
 Work-from-Home (WFH) Tracking: Monitor employee WFH days and assess how flexible working arrangements impact overall attendance.
+
 Absenteeism Insights: Quickly identify frequent absenteeism, patterns of sick leave, and potential concerns in specific departments or teams.
+
 Time Period Comparison: Compare attendance data across different time periods (e.g., weekly, monthly, or yearly) to spot trends and anomalies.
